@@ -4,8 +4,8 @@
 [![Tech Content Creator](https://img.shields.io/badge/Tech%20Content%20Creator-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
 
  
-Studied Bs.ICT - Information and Communication Technology. 
-Institution - Jaramogi Oginga Odinga University of Science and Technology. 
+Studied Bs.ICT - Information and Communication Technology. ||  
+Jaramogi Oginga Odinga University of Science and Technology. 
 
 ---
 
